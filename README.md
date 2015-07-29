@@ -4,5 +4,3 @@
 
 ####Overview  
 ・Bluetooth SPPを用いてEdisonへデータを送信するAndroidアプリケーションです
-
-aa
